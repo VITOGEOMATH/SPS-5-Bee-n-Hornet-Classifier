@@ -1,5 +1,5 @@
 ![alt text](https://github.com/VITOGEOMATH/SPS-5/blob/main/GUI%20Bee%20n%20Hornet%20Classifier.png?raw=true)
-![alt text]([blob:https://web.whatsapp.com/a661420e-bd33-4751-854e-b054e948af01](https://ichef.bbci.co.uk/news/1024/cpsprodpb/61C3/production/_130972052_asian_hornet_comparison_640-2x-nc.png.webp)?raw=true)
+![alt text](https://github.com/VITOGEOMATH/SPS-5/blob/main/Lebah%20dan%20Tawon.png?raw=true)
 # Sistem pendeteksian suara lebah dan tawon guna mendeteksi hama pada peternakan lebah
 
 Aplikasi ini bertujuan untuk mengembangkan sistem yang dapat membedakan suara lebah dan tawon menggunakan analisis frekuensi, pemrosesan sinyal digital, dan teknologi machine learning. Sistem ini akan menyediakan antarmuka pengguna dengan fitur visualisasi suara, pelatihan model, dan penerapan model ke perangkat IoT berbasis ESP32.
