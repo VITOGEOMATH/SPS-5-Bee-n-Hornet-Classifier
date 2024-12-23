@@ -5,9 +5,10 @@
 Aplikasi ini bertujuan untuk mengembangkan sistem yang dapat membedakan suara lebah dan tawon menggunakan analisis frekuensi, pemrosesan sinyal digital, dan teknologi machine learning. Sistem ini akan menyediakan antarmuka pengguna dengan fitur visualisasi suara, pelatihan model, dan penerapan model ke perangkat IoT berbasis ESP32.
 
 ## Authors
-1. Muhammad Rif'al Faiz Arivito (2042231067)
-2. Emir Hakim Zauhari (2042231069)
-3. Kania Nayaka U (2042231033)
+1. Ahmad Radhy (Supervisor)
+2. Muhammad Rif'al Faiz Arivito (2042231067)
+3. Emir Hakim Zauhari (2042231069)
+4. Kania Nayaka U (2042231033)
 
 Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember Surabaya
 
